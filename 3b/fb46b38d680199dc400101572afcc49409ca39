@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-4.14.244/ v4.14.244
+Comment: git version 2.32.0
+
+iQIzBAABCAAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAmEY9LYACgkQONu9yGCS
+aT4O4g/+N8ziBExNKhEt66r1D+YOD1bIFHxDftw3Trl2kvzMgNzd7pDZ6JuSMeQ9
+z5u+oCe+UucXdrK8//7yf7H1+94t1fG4TtTm5zG+vuGtNrFSlj1mnpwzZ9oKs6JW
+WKT4u+oK+N3qE4kUD6zNzShEWf6mKlmavhWkBZyt6aythBvAagBDAzUZou7AhAgb
+zpe+MjDte0xjY9rEQwXIuNXoQt4Lth9b2/WcAaqE5GgS59r+A6lmYB1vfk8IFkwE
+4adZoh4ztRd4zGvQa9okFhoPkfIG1QiVw/4BNlizEVjoHQKQ0rD924ZN5o3hC1gW
+TI1rX60fY+Bld3XQvQQfGfAYaH4FGKCklxWkdXVQxAHI8/3KkuQsWeeuR73kQgU1
+Y4q5shti5S81CKnbHHVF+McfPJNklVltBOZwFcoNn3TvEXbMdZKUedyLy4BD0Iso
+XUBraXzjYxbVcCF4WqonFGzpUP1UsyngyuzwPX+r2g1gRvk4Z5EOv/tS1ZJew9S+
+rtaX1OTgRFTUwP9LW1CUxB3YnINixCxgiwjdk0VOL/nAaWSYyZnqnAe68UeqwFwD
+twPXiliOwletEMKCBYzK+jQke4axbmJwp9atHH8i02rorundBr4Paw4axkUYPYxX
+znB5OgBSE59vpzXcu0blqv4w3ZeVLnIgsJqVMYP1fDx92zzLitk=
+=woCv
+-----END PGP SIGNATURE-----

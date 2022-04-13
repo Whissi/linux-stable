@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-5.15.34/ v5.15.34
+Comment: git version 2.35.2
+
+iQIzBAABCAAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAmJXHcgACgkQONu9yGCS
+aT66oQ/+I0NchH+O67o9rnoJe/SwdA43ycx5mVCITdY5MaVlPzFOgeVR88f+sz02
+K5GEIMwO7vBwVJ7gS2/FaTWpntEoezWgVoc1BZd3TmSvd4kqK1nVeTi9qHumzp20
+ocAFXzjsEapHd7tYWr/CrezAmsvnt8tqy2MDa//xLH8ORh4zDHMHTgxuOk1LrG/8
+x3y2yNN09cwqLPVQAeVsgOqG4OGeV+b+oEwYIc827/elF3bk4wvgCJIWvJgNHdXH
+xBqy8ekuPoV8RLiFKRqwkMymcq/UV7rL6djP3ypxkq2F9qnCtCK/w01PjmjwMe1u
+5MLqHm72w0b9Wo3Z4+rnxcfQP7kh0PKJkm3d8GJ5MXmPG8d9/T1+7tv2WkFVbquX
+HcuhASSJuReX8Hfrz9jsSRh1o+UVgsqi8oKcihb2/36stZvPV+ZFI5xA5yvvS1ze
+5nDp9hG6eUHKK8lQHdSK9hE7rKIvI0gbu0AWcdmO0NDKCu6/xkB88R+k7ygSB6gm
+FYN8njplnS0o7laW/YuJiKGSGuC8aHYHA9V/lygoCuN9Evk8vLsZHgitj6bzhquL
+kd3PivHb/EbNyIQFkdEdn/oRZv5I/CgOgWAFwNtAF4J7KFWqxE+lyTac+sQMXyT9
+eU+UKq5IUsCaxHEVtG5RAx7ezU6eSEXSfGd5ThqO5SkOkD+KZ8Q=
+=R+ew
+-----END PGP SIGNATURE-----

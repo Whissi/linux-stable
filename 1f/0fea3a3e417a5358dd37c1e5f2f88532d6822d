@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-5.18.18/ v5.18.18
+Comment: git version 2.37.2
+
+iQIzBAABCAAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAmL84r4ACgkQONu9yGCS
+aT7wxA//WP+TEVuFMFflsvF01TKMvziqrMtTjMhEs/p5a3KQxcH04U6CLY4HRmuV
+meLJskuak5vRo8nFdqqnPiD2pMoHHVf4XtLzXDT9MOayQYS8JIos4LbD++zEUyeq
+yZtRP6kHfuhVTRA/K+Onqia0hE5zDenRFifXq6rEJPB2ZuPrW7EY5JWSuxqkCjc2
+Z8+vFgM8X1uCilv6A0BZGkySDXvR9gvQ0/iVNswSlecepW7EsT3QoFh8kxL3qRt3
+8RsI7qqxkmEhfCDX7gM3TtDTjm4SwMY9PTVv1r3WVljIrhcyRX/1ScaXbxtx0KsA
+v1ntsnhpSPRFhZaEiTtlVLr8VImpSdgB6qNAxBw3684BZ31vh3g7m19Mk5y+7QLk
+evZkpxdP7jJcs9+h0VieUGnQT0TGMzL5SwaIEYiEvJn5AMgnz7zNwdw/zhMZTBJj
+0XKz/cm974uSDMKV0zmwRfh4RLBnMPsO0cQm5s/tkZfhOklG02tjSFFrm4COul43
+iHXHpjt3XTttOep07pWjHoxrDfcuZ2pBzYi/fnnG/T/SyowTkKs/ulmv0J7D8KLt
+s9oQCAct4zxPSM1RwiL7H7iBHOlXbCtR4DxLklQFt55Zjg1qHzXxXA2xC/gYZ5tJ
+7wuNW755kECZkhyMrsxMd/B3ego29NgmCtayM6b6SlUIXkMJ4GU=
+=MlTp
+-----END PGP SIGNATURE-----

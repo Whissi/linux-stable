@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-5.15.80/ v5.15.80
+Comment: git version 2.38.1
+
+iQIzBAABCAAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAmOBzccACgkQONu9yGCS
+aT5p1w//YxZhesVF5wyhNy88Jf/km9JQyXI08dDWBix1qyBm/i8lQ0C0dD5gbaAA
+Q0criLKB/s7siQAeuGdNJnXsWWYb0a6bZnQVFGayHLQpQ7xJ4vil07PKdrMUmmEC
+lOsbnQrvgRgBQ6MREYy1pjI5LYXnyCOd9IVV2/tAsJQB57i14CfbMZ9CV7V7Gf+L
+Egr1ypCGoequx8OmtPtJRmE4n3X5LMj6TU/yWaO41tWJ5b/m8zoPu5YlLg4PAiyr
+nLvewKS9krdWDbOlE5amsPEllEuT8fM/o6CePF8QE7UdsDPHsD14pQN3suW8Z81Z
+2Lsxoh0AtOy6/lppQ1IdjuwWiDFBvPVUt4bdktSclcDA/YMFTq2ZOLjZBBlXne1S
+wAUlNnE7aAZPpFcMGcfDZ9fDjs90hDjS6qzI16u1PN0oQ+SO1MuCP/1nDUkEpkOy
+5UjHBIdM9CgYDSdmcKWAxMMjZrqonhvK3mbRVxkbmfXFDWNiade0p+4liXB8Twfp
+U2QuGxoLBGNN52HslrGWBeDaE3G9e98ZqAShJRjrXvSVfl6IW5o5qYfoBR6/LYOP
+itvzF9k9gH+ok6DEqkoN4/JY9FsbE6fV3rqZPk8X5QqsdHddxVHSrZ3rSLBY+0Oz
+XOsA3mG+uL+L/Knd7xuTPmkMiIBTFylBpb+icu9lX77d2ZMP+RU=
+=YG8Q
+-----END PGP SIGNATURE-----

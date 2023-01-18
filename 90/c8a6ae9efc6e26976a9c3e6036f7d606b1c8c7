@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-5.15.89/ v5.15.89
+Comment: git version 2.39.0
+
+iQIzBAABCAAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAmPHztoACgkQONu9yGCS
+aT57UBAAjt34st0lN2DNMIFFOF9c7mbfC6lA/HwUWx7s1ujBr2wVoZFK8KRVwPDo
+cxwowYaIOKxfKnwx06S15++mwvtXqoe18bvRSelNdGd9SUlRB0KVUFRWyk47VMWC
+adY6P815y3xfUT6pOmjckwzSwPf253uScHzzMPuBvVgXXrm98hps4QoWBfYmRCpz
+jodjP+1SVE+0o4Q4lVwp1kOZ6icpCZjRQqTjeKj2FhQ99UBWVWK823NvQzZ5bR2B
+DxOAC/iXpxy1XscGxIhcdhbm6s8yjDsHfI7HrxtXWkhhhBqy3xBPS1VbgEOUwZaj
+IKoAROuhJGSYTrjCSKOTPar/kmP7bryMAqvSwTQ1QrW95U6g9nmEW07peuP15peQ
+3pIgxIbax+bU31O4SBQV7p1pQI3kv7eBqB0HM9iscKbP7vgL+I+0xtuNgZftPHju
+FHOANsIQA2uVKLkoKmbp0bBCJGupQoDAzFcMl18tqfpjZyXnRHaTxxbac1yp9OjR
+BqL7xbUOWRVdN3euL8/ciHnPN7EyMnRJR5Nk9jsoW4ZQGtRUAlBa4ELAR+3/NvxE
+6ya9FWXckd6fuGnSrcGxER8w8eGZQOGJQO8FTa35sVl3LEm/FErO6f7g4Mbonq3B
+34zhjOjx41QJ93Fx2cDdbjv5qcyLW6bBDpPAURv/fAiRAaf2GyI=
+=xPvH
+-----END PGP SIGNATURE-----

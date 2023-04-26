@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-5.15.109/ v5.15.109
+Comment: git version 2.40.1
+
+iQIzBAABCAAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAmRJESoACgkQONu9yGCS
+aT6vWBAApX94BwfIH61K1aUy0eoG7gf1HBs1ADrcUYPAjXPEBks8MK76qYLbRFab
+rZLRGbvQ3lKetgSc2uqk8Jk3UOpwxP5PvUbpqwJvyvTy6gzLMwbRXvmcEO8skzI+
+cjky8hE1tTwjYAdB9DpQRWykSilHP3G2UKA7IJS8SEhqbD3gMvIG6UKQfalRMQ0o
+OCd1mB80Ovclx2plL1Z+25QzE7QNK7P1Snr6JxpWq2xe4OAryvkNuYLq2/WmutSI
+GEw8ntWsaI4PnSj2+sBoGNKohXKhEYUZ8EBhIBrA3edeVJ0S3FZDvuBJF/9ZSMHw
+CQQJKfqe/TmjN9HxF00XQM7jVXV/uYIPhgvLhyyCrgwlnuLa/d4+i6TahHEa2oxS
+VtoYuuUrL/HWy0asWkTvwpuvlfgF9u77xGtR65VqyguthU/InAWNiAnr78M2Gk9K
+KIfU8QBj7bMB99xNqsZXj9hcBENYSTZg0Oj6dj4XLATt8Wnvs9zacxNSanoYDxfr
+D/1gUgnHYFKwPl2gdEh+luVZs4mDcDV6k3YGmZz0hKsmxYJGPYG6VBHToV18bwX3
+Bo2uPbyUMoiiff3uHPqTr9XmP864moBnfkpN1AjFP5Ga+Q2Sh8oIo1IhnT9O9kDP
+yUK9148da35tqNpLaQDbrNGGnK815gls1aPfrGOXpfkFU+kCAKA=
+=ckvm
+-----END PGP SIGNATURE-----

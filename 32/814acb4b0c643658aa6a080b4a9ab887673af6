@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-5.15.154/ v5.15.154
+Comment: git version 2.44.0
+
+iQIzBAABCAAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAmYWoGEACgkQONu9yGCS
+aT4hMw/+N9G6ExSnScxKK+LQZRE3Ru9oWRz57MO2SE3Z1r3eBtyBYifEmg85s4FQ
+IGY6J4b33vSSRFL0zKXjJsueOEMhlvaqiSEnBT8hA3lPZ2U1UHNr/z2zV/u1izJP
+jj3CcP3i5P7QwgupYQVumTR9Fmaqd2NDZu0TrbJVGMJolkJrZdycrbcOrbWpQmiM
+eXke1be3PXlgnzSDqYGp97K9WUWD+74GdWyK0Eut/hqJ7+/Wcc5vDj+kf59YJYWS
+G1HMzlxObej5gRhd9BLlpHlB3KYB16+6YPCiYvjyk70a1WBqWYvK6pMfax3tzVmP
+MQZom3OUDH6VfCzqKnwwZQStSU0eABwLfu1Bn3nGAhclfrfdSj/4LvuGawsmGYPi
+w4QQZl6BPfc/AiUYI+lcsXbXXwjzrsc0+LNHiPrMt5TQb+9zDKUaeHzg0yrALN8q
+oEJ3RjRM6NMKZCxpIgZjdagVaW5NqNgBhx6sLfzIVKwv1lJrcJ/+n9lNfJoX5dyh
+/o3IHCIIlug8cwRYQoWsxiUD4iD3hy3kpXxu0fzAFU4/lIjkER/TPdTRl/f/zDKy
+W6T4valKR1TuQ6EV6BqIrsQ3dK+qSnRzPon0O+c/xsFKExm55+NhVv7CsGa5gb4d
+ZREPWkXkfxUHt5+zJhoAtdpytsICqemxkTNjmAkCaSPcxxlHeK0=
+=5peP
+-----END PGP SIGNATURE-----

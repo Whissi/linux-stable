@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-5.15.174/ v5.15.174
+Comment: git version 2.47.1
+
+iQIzBAABCAAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAmdd1A0ACgkQONu9yGCS
+aT6cWQ//bzsATJZCc2SCBFKISQ89XJT+epbTfeTEiXBOLXHVjKOdUZF1zJFRkic4
+h0Qqa8bZbkfxWM8jmppwt7Q9JnfEaGVHyLQEC8l15Jx0F+dyHWYd84XMYHanVuAz
+JVYhJqSy7gib+8pGo9nQxsTwbeAH0gOH9OWOQO5Wi1cv0ZVllX+luckjLWs0Mtai
+ovGMQb7kl+G7lHo8r1wl+cl4+cqyMSsWnoaq4wFdPsoiiLWz35M9oAzYvbLvu5+M
+ccW6EKHc77lxtip3nHju2tOXTRFmIulaR+H5aL6qXwDqPYZgsTJO8ad4MFhVbfdA
+7IXwdmdBMsdGBQU43dsc1OIv6tdtl6UcV9Zzrl7nfCtZtCJ49uE6t99hZdsagdK3
+cnkBkcLV39sL4dUkLl1eOT4ru37fhfr3esLf4dy+EYzTWJcrkeKF8D5/duaU0Rcy
+ZR8VFsaMQb9JoomyI6M2PX2TQrCm6xrWWl30PNVb2k90AUWUzOElVMlUfrYHYL/4
+akqWbGrFu2g2kvswmNbmXmTvsAnXfIDa9SFvFx3QHDvUDkwoBP17XtilcXGV/wmS
+kPKurWc2FEKuzZnPAX3rB6PTO3Rm4oQTPZgVAonFbspzfDAliYo30msdNEYxxy7Q
+8v6jLss8tKbUy7DQvN34tl4HglXQDWJqTThIDZ3OnZFgUFLqi7A=
+=c7W/
+-----END PGP SIGNATURE-----

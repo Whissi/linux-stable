@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-6.12.31/ v6.12.31
+Comment: git version 2.49.0
+
+iQIzBAABCgAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAmg4JOsACgkQONu9yGCS
+aT6wthAAkvHFnwKURAwbrdmid0pz5BFlbXQkIiZEPHB3i7KfsaGbaablgOiE0wqt
+lAoP2vq5njq2hZwREGFQ3cCcysd0YRdjovV26LSzV2ZHj7ImCziL03BZInX8xpFV
+Z9KDeggudtHUSHzp55QmKdRmUm0CSl6NacT+DeZPVdoHwD1lmXdVMWjylXZEdpR1
+tfB7jPp5TyVnI/xqcb6BNJMukrr4IfCgoPea5/MSpZJbcquWGYNxEQYJI3R1fhAq
+UZHhOQDl2vJYCwwpZsx3ElNNkhPEomSCE+qdUq+KQVrEqbL5LIUgv8Jt9H0ZHHrs
+JDy9OyFG4jJfnZKJXCXc1lD66uY7wG/qibQrvW0jhPNOP8YPlOowl8PzxCFjYtiT
+bdFGMDx7LlwRIb6Kt9qV3NXh4/gPTl6KdElAafnJJnE9i8OqoGNAtfwH6b9GTnXf
+tMIGpuzGFoW0Th7dT5RVj/mnzGBkPwemk04rf2ufQ4JvnydWFPnPaSBWap2iOk9B
+n8KB0bPvecdUPcMZv8rvhPkFaRFJbLLotKyPTIr5JaAAna7wH1I8Auuog/CVCuwi
+uQlt6m8iWU/g8DBv97y7csOsPT2EJscTVbsClPIyNeY3QUfeuWAyBP+t21goRdSh
+K7kLHzfaxYarrK9dw4YvY9zBj9PMugvLwWmaE2e8sevTAY7FvoQ=
+=l6mY
+-----END PGP SIGNATURE-----

@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-5.4.294/ v5.4.294
+Comment: git version 2.49.0
+
+iQIzBAABCgAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAmhAPagACgkQONu9yGCS
+aT4iURAAn9FHnVnBIv6dpKByCa/jo3URI8jtw3h++iEtBdl8SF3xqSr7BMLQge/A
+5tLVTR+ENKNKU42ezzh1r+Kw0WGhMCB7MXY69RPbRP46XkI2lXklOP39QGWx1E30
+/0+NOcx8uc+PUL+2seekIdXthezYktdZOkPkMiyeM89i2M5ffnMAZcNkWXCmyK9U
+x0H9/HGhs8pCZ64PSDG1S6+f4n/Pg7+lIhOFlFFe2Ae4b/5M7TOd7gwVjwQjrg/D
+F0u0uej4PyqPmq+zCrMuGGnxssgyhsFaUjNyMfuFEslLw/vX7NS0sEEoNaB4gFCK
+P7SDKCgZlVuI8VFqfcA7kzoqMVwDVLwYmtwyA1A3OF9rg5/+CkAMg7q21CnEtMmz
+W2ueonzQxi/AV2OS21UJH+sxVTKuPYWh1he42auytOCTOrIoTsOwmWSk4bsDtijW
+J5XtrrgxDm9mLVBKRqoDnQRhyGZLtt+5L3Td4xoZMh1uqAQrN/IYQLjL9PLCYndI
+1keFHiBOCZju1LUHBVMJ0qdZ2He/ADIHChgNPmuBlITPxMT/cB43Bj4ZkhyM/du1
+XL53fQ8dBvdZ9PA3hmJBkCJC79Sswf2vZehXZGMsBdUJHmjk8BX3AoHQFmzsunnn
+Qs3aUVd3FdBe0W7WFvarrfOPgNfrdnU9lsDXzY9dglNiB0QgZKU=
+=kMEH
+-----END PGP SIGNATURE-----

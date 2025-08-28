@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-6.6.103/ v6.6.103
+Comment: git version 2.50.1
+
+iQIzBAABCgAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAmiwaBcACgkQONu9yGCS
+aT5WaRAA1brWfkSor6GLEsoSebVmUUNVsN5Yrm8IZRuaWSgVGogWaQuoaW79cUHr
+ghBsBowRbm7Ontl8HtaM1KHo7QVZwmQ5UwSlEaMDVXcxgain/wOEvzITG8VFZbB8
+vwwcoCL9WVeS3WLR2611B1hUi3iaaHkuJHCYE4KUbFoWhH819MwzwCFtyYiC3//g
+c1lzYWRliSBfy2RKiA0h2wG8yTc7Wl3aDpJne9FSFd1In8NfJkK98t1O0R4YJPrp
+pUbLLGSqRW8oHj7jMLwPkqHoS81oRHXruwAGp/0uChsDdtCrK+F1by2g/bkMUhJn
+p+qxjb72+ONm7l5RN4CKBsOEDiqyfFqxnS9JLVgq+GEOXqLrPCaoyuoxEAf3aBn8
+oVwqu5EXt2xoIK0MGoCh86TMXkuWJStJK/YNT0gjhRBDtiOohWMUBZ5R1XmnrXt6
+uvtFPCiwfh4t/h7g8UCsaG7iqjtMLfIQa5mIuGN6rb+rSwxL63KIvGs3SpzCLcQH
+VnkEYM+SygrnbrFN0CAFuSJ33i4kHlFSjy1oH05jiSQbqg80NFYQKAbqSd/awvrF
+veWSC2L+s2USW6rxakzkkJZI0yuZbyn4NLQitqAW8TStZ8qntPpgWfX6caHLxcQf
+CrSaXEFqwo4ghtjqVLEkZCpp0OYs9U72pWywYJiauoZ453NdY+Q=
+=3OGt
+-----END PGP SIGNATURE-----

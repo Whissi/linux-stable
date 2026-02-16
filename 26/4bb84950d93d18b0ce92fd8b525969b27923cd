@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-6.18.12/ v6.18.12
+Comment: git version 2.53.0
+
+iQIzBAABCgAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAmmTQbsACgkQONu9yGCS
+aT6yxQ/8De7s6Vj0ALjpPVCnYiHB3ILRD7Dz1R0p+aqXJ06ukC98NPrqDsWo2mD8
+RIU/qkdjuzftPf9TAYsSsnZFuLr5ZgLnei63YJlcM21Paw7rY5ECcyrfUFU4v7VH
+GiuFqg4P7AsCXGJtxDpdexovwhbnzs4+driEpeYB0ai1BdoELzcHq+unMIKtau8y
+dVJop6ZJ5dN9K3rfYU+mpfi6yfzl2aNxxTDtMa3xatcO2RIIGRxc0C/57LYM1Ety
+LULw/35l2PD/tFk9tvLSM0HDpQEpI7MXyRWCAz7zsAmnTc7lIrxPgLWrZF396m3A
+nl3qYCyY72lYhRQNMVYa/5i66k9Fzyt28JsO/Fhpc9PB4lF9qER3FR9fej1aJXAT
+hcZZXtEEf85wZUflLWJb5ifvS7as/zt5RTap1IyXmZYGcyZkX9dJZyJj68FiodtI
+NqY23CfvMVCTVEERCxQCHE2rWHWBTFnRpzpqUrifR9+yNkz+Z3DJSQ6IF6yQ4CDT
+R07iNwOoziEtcqLUERIIS8GZ4kQiw0ObnvT9w4TS/PyoJt/M9qX7GoRYatxw9x5g
+IpT1L4pTHWRSeBgF4o4mYKHg9R0V8FzaHuEJY82Lg9trL0yLGVY6ZG1zm/mW2Cxf
+YifE1jwWWWPBM8h9dSAWhWg/XpwM8ScGSZtfTVG+S3y+MWiOjoc=
+=NoLO
+-----END PGP SIGNATURE-----

@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-5.10.264/ v5.10.264
+Comment: git version 2.55.0
+
+iQIzBAABCgAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAmp1diAACgkQONu9yGCS
+aT4x+w/+M0K+ZZ6WT7ykPg+VOSjyoNzQ2+bCPJGxR4Fh971b1NUZBMJzgr27WzN8
+eGqVVLwnrWnWvh4CTbhngjh9LzQHBzkBcXxcVJF2ZF4G2NjkdrLOq3bsXauRabiW
+rsHg4ZdYqI01xatBxQq5lDUnMerVbSg38HOR6twrTaLOP2jn94mzXJo48JobZ1C9
++cnxJ9uY5NvP27ED0WvOquV9PzhkvpL5Zwx8frZ6bgo2HE/Blj42gLIdRgVUePp7
+aLOGwzCeW1aLaXEbvlae4mk7pgED6/E6EVNyDvoP3ykTva9Asth2nV1dF+4W6+v4
+raSlnb/rp/jQjfzyP4ZjyR9FbEiRH7uQWqn4U09mkymCsWPiuvVH54GF+zceEKfR
+oiHN+5KxY3/OyaJlrYs0tgKF5wcmQ24oFSN3ResiZ1W1ZYDMQPG+FQ5qWq6oO9f8
+1LAFpdYQ6vHUl5+5YqsdpobfPMp6c1q+fHRh3vfS+dJwodKF+AqqP/k5n2gakxQP
+9FgIALdfB18NGSRxG5/IGOo/kwopy7/F0+WJWVJQx/MzokttXKWzgw94yAhX1Byb
+ir2Qkuz2bx3D0/gG07CAmhf6toaXgLHYCY5bpLubU6NuagDAxx47u8dkJ8LpEoIj
+hcSavZBEK9hDQiG0YzxyYt8o7j9uzw3GpLiqzgzynGC0I5SyLDY=
+=QHWH
+-----END PGP SIGNATURE-----
